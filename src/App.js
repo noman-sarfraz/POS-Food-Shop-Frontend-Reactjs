@@ -92,5 +92,5 @@ function App() {
   );
 }
 
-export default App; // end
+export default App;
 
